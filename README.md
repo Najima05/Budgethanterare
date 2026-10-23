@@ -11,3 +11,15 @@ Budgethanterare uppdelning:
 6. Transaction
 7. TransactionFileHandler
 8. TransactionType
+
+
+
+
+
+Budgethanteraren menystruktur: 
+1. Lägga till transaktioner 
+2. Visa alla transaktioner
+3. Visa saldo och sammanställning per kategori
+4. Filtrera transaktioner 
+5. Spara till fil
+6. e. Avsluta programmet
