@@ -1,4 +1,12 @@
 package com.example.java26;
 
-public class Transaction {
+import java.time.LocalDate;
+
+public record Transaction(
+        LocalDate datum,
+        String kategori,
+        double belopp,
+        TransactionType type
+
+) {
 }
