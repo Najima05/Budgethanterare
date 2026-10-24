@@ -1,4 +1,9 @@
 package com.example.java26;
 
-public class FileFormatException {
+// Kontrollerar för trasiga rader i CSV-filen
+
+public class FileFormatException  extends Exception {
+    public FileFormatException(String meddelande) {
+        super(meddelande);
+    }
 }

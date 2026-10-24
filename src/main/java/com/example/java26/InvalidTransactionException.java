@@ -1,4 +1,9 @@
 package com.example.java26;
 
-public class InvalidTransactionException {
+// Kontrollerar om en transaktion är ogiltigt
+
+public class InvalidTransactionException extends Exception {
+    public InvalidTransactionException(String meddelande) {
+        super(meddelande);
+    }
 }

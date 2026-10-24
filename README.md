@@ -3,7 +3,7 @@ Budgethanterare
 Programmet är uppdelade i flera klasser med tydliga ansvarsområden.
 
 Budgethanterare uppdelning: 
-1. BudgetSerive
+1. BudgetService
 2. FileFormatException
 3. InvalidTransactionException
 4. Main
@@ -11,6 +11,7 @@ Budgethanterare uppdelning:
 6. Transaction
 7. TransactionFileHandler
 8. TransactionType
+9. CSVTransactionStore
 
 
 
