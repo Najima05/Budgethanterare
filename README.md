@@ -69,3 +69,9 @@ Jag skulle också vilja bli bättre på att göra commits och pusha koden till G
 jag ibland att pusha mina commits och den senaste koden. Genom att göra det oftare kan jag följa kodens historik, 
 spara olika versioner och enklare återställa tidigare kod om något går fel. Det gör det även lättare att dela kod och 
 få feedback från andra. Det tar jag med mig till nästa projekt.
+
+
+### Källkritik: 
+Jag har använt kursmaterial och genomgångar från lektionerna för att förstå programmeringskoncepten och bygga vidare 
+på kunskaperna från Laboration 1. Jag har även använt Java dokumentationen för att förstå syntax och funktioner.
+Dessutom har jag använt AI chat i IntelliJ. 
